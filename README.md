@@ -1,1 +1,3 @@
-# SIH-SAR-Image-Colorization
+# SIH-SAR-Image-Colorization-Project
+
+This project focuses on developing a deep learning model for the colorization of synthetic aperture radar (SAR) images, enhancing the interpretability of grayscale SAR data by applying color to surface features. Leveraging paired SAR and optical images, the model is trained to predict accurate colors, enabling clearer differentiation and analysis of structural and textural details in SAR images. Designed for remote sensing applications, such as geological studies and environmental monitoring, the solution aims to improve SAR data usability through intuitive and informative visual representations, addressing the limitations of existing models with a novel approach to data pre-processing, model architecture, and evaluation.
